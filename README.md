@@ -13,3 +13,12 @@ This repository contains some utility scripts for creating figures in deep learn
 2. **scatter plot with annoations**: [Code](scatter/scatter_plot.py)
 
 ![scatter](scatter/sr_inpaint.png)
+
+## Notes
+
+### Insert video in GitHub Readme
+```
+https://user-images.githubusercontent.com/46140458/116817761-47885e80-ab68-11eb-9975-d61d5a919e13.mp4
+```
+
+https://user-images.githubusercontent.com/46140458/116817761-47885e80-ab68-11eb-9975-d61d5a919e13.mp4
